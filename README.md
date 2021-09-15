@@ -17,3 +17,4 @@ npm run dev
 - View the docs from [here](http://localhost:4000/api-docs)
 
 ##more on Swagger
+https://swagger.io/docs/open-source-tools/swagger-editor/
